@@ -115,16 +115,6 @@ body {
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
 }
 
-@keyframes pulse {
-  0%,
-  100% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.02);
-  }
-}
-
 .footer p {
   margin: 50px;
   color: #bbb;
